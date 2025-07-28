@@ -49,6 +49,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.8"
+  equatable:
+    dependency: transitive
+    description:
+      name: equatable
+      sha256: "567c64b3cb4cf82397aac55f4f0cbd3ca20d77c6c03bedbc4ceaddc08904aef7"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.7"
   fake_async:
     dependency: transitive
     description:
@@ -232,6 +240,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "15.0.0"
+  yahoofin:
+    dependency: "direct main"
+    description:
+      name: yahoofin
+      sha256: f2df77b03c68d05990d7e54c44089d90812660b0146edf8045e606ce7901d3a7
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.8"
 sdks:
   dart: ">=3.8.1 <4.0.0"
   flutter: ">=3.18.0-18.0.pre.54"
